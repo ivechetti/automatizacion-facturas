@@ -1,0 +1,4 @@
+# Para regenerar las facturas de ejemplo
+reportlab>=4.0
+# Solo para el modo "ia" (extracción con la API de Claude)
+anthropic>=0.40
